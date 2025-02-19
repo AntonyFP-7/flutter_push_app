@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221004408182",
+    "project_id": "flutter-proyects-de055",
+    "storage_bucket": "flutter-proyects-de055.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221004408182:android:0b382f27c7b646d27dc657",
+        "android_client_info": {
+          "package_name": "com.antonyflores.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgoHxyrpDBdQI2T0fnRbYncdwqOWl0WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
